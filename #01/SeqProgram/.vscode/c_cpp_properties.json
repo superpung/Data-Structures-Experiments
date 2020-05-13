@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "F:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++",
+                "F:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32",
+                "F:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward",
+                "F:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include",
+                "F:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed",
+                "F:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
