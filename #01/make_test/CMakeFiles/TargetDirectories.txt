@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/make_test/CMakeFiles/make_test_program.dir
+C:/Users/Administrator/Desktop/make_test/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/make_test/CMakeFiles/rebuild_cache.dir

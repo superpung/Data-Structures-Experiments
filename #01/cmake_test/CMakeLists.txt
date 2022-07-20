@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.0)
+project(vscode_cmake_Test)
+aux_source_directory(. DIR_TOOT_SRCS)
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -g")
+add_executable(${PROJECT_NAME} ${DIR_TOOT_SRCS})

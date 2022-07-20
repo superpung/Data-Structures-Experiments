@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Administrator/Desktop/cmake_test/test.cpp
+test.h
+C:/Users/Administrator/Desktop/cmake_test/test.h
+stdio.h
+-
+
+C:/Users/Administrator/Desktop/cmake_test/test.h
+
+C:/Users/Administrator/Desktop/cmake_test/testAll.cpp
+test.h
+C:/Users/Administrator/Desktop/cmake_test/test.h
+stdio.h
+-
+
